@@ -11,5 +11,5 @@ function ha(el) {
 }
 
 module.exports = {
-    test, ha, blah
+    ha, blah
 };
